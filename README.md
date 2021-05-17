@@ -1,2 +1,2 @@
-# Example of test interview on analytics tasks
+# Examples of tests interview on analytics tasks
 # python pandas / numpy / matplotlib / seaborn / plotly
